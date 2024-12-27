@@ -4,4 +4,7 @@ count = 0
 for i in lst:
     lst1.append(lst+5)
     count+= 1
-    
+
+def display():
+    print("Hello")
+
